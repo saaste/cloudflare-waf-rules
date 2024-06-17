@@ -1,0 +1,14 @@
+(http.user_agent contains "AhrefsBot") or
+(http.user_agent contains "ALittle Clientq") or
+(http.user_agent contains "Barkrowler") or
+(http.user_agent contains "BLEXBot") or
+(http.user_agent contains "DotBot") or
+(http.user_agent contains "IDG") or
+(http.user_agent contains "LinkWalker") or
+(http.user_agent contains "MJ12bot") or
+(http.user_agent contains "Mozlila") or
+(http.user_agent contains "PetalBot") or
+(http.user_agent contains "SemrushBot") or
+(http.user_agent contains "Sogou") or
+(http.user_agent contains "woorankreview") or
+(http.user_agent contains "YandexBot")
