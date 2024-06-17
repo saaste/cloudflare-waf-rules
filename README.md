@@ -1,2 +1,2 @@
-# cloudflare-waf-rules
-Expressions to be used in Cloudflare WAF rules
+# Cloudflare WAF Rules
+Expressions to be used in Cloudflare WAF rules.
