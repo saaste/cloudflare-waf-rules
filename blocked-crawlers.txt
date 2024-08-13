@@ -9,6 +9,7 @@
 (http.user_agent contains "Mozlila") or
 (http.user_agent contains "PetalBot") or
 (http.user_agent contains "SemrushBot") or
+(http.user_agent contains "serpstatbot") or
 (http.user_agent contains "Sogou") or
 (http.user_agent contains "woorankreview") or
 (http.user_agent contains "YandexBot")
