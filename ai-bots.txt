@@ -27,5 +27,6 @@
 (http.user_agent contains "PiplBot") or
 (http.user_agent contains "scoop.it") or
 (http.user_agent contains "Seekr") or
+(http.user_agent contains "SummalyBot") or
 (http.user_agent contains "wpbot") or
 (http.user_agent contains "YouBot")
