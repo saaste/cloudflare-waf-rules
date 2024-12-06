@@ -13,6 +13,7 @@
 (http.user_agent contains "Claude-Web") or
 (http.user_agent contains "Claudebot") or
 (http.user_agent contains "cohere-ai") or
+(http.user_agent contains "cohere-training-data-crawler") or
 (http.user_agent contains "DataForSeoBot") or
 (http.user_agent contains "Diffbot") or
 (http.user_agent contains "DuckAssistBot") or
