@@ -9,6 +9,7 @@
 (http.user_agent contains "Applebot-Extended") or
 (http.user_agent contains "AwarioRssBot") or
 (http.user_agent contains "AwarioSmartBot") or
+(http.user_agent contains "bedrockbot") or
 (http.user_agent contains "Brightbot 1.0") or
 (http.user_agent contains "Bytespider") or
 (http.user_agent contains "CCBot") or
