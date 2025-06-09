@@ -80,4 +80,7 @@
 (http.user_agent contains "wpbot") or
 (http.user_agent contains "YandexAdditional") or
 (http.user_agent contains "YandexAdditionalBot") or
-(http.user_agent contains "YouBot")
+(http.user_agent contains "YouBot") or
+(cf.verified_bot_category eq "AI Crawler") or
+(cf.verified_bot_category eq "AI Assistant") or
+(cf.verified_bot_category eq "AI Search")
